@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Maafin Aku Ya</title>
-  <link rel="stylesheet" href="nay.css">
+  <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
@@ -13,12 +13,13 @@
     <div class="card" id="card">
       <div class="hearts-bg" id="heartsBg"></div>
       <div class="polaroid-frame">
+        <!-- Using a placeholder image - replace with your actual image -->
         <img src="img/nay.jpg" alt="Foto Pacarku" class="pacar-img">
       </div>
       <h1>Maafin Aku Ya <i class="fas fa-heart" id="heartIcon"></i></h1>
       <p class="reason">
-        Aku sadar aku udah salah dan lupain ulang tahun kamu. Bukan maksudku buat kamu sedih.  
-        Aku cuma manusia biasa yang kadang lupa. Tapi rasa sayangku ke kamu itu tulus dan besar banget <span class="heart">❤️</span>
+        Aku sadar aku udah salah dan nyakitin kamu. Bukan maksudku buat kamu sedih.  
+        Aku cuma manusia biasa yang kadang khilaf. Tapi rasa sayangku ke kamu itu tulus dan besar banget <span class="heart">❤️</span>
       </p>
       <p class="closing">Aku janji bakal jadi lebih baik untuk kita.</p>
       <button id="apologyBtn">Maafin Aku</button>
